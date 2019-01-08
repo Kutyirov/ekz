@@ -8,7 +8,7 @@
 | unique_ptr    | НЕТ   |
 | scoped_ptr    | НЕТ    |
 | lock_guard    | НЕТ    |
-| shared_ptr    | НЕТ    |
+| shared_ptr    | ДА    |
 | optional    | НЕТ   |
 | any   | НЕТ   |
 | пользовательский аллокатор    | ДА    |
